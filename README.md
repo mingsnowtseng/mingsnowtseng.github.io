@@ -1,3 +1,3 @@
 # mingsnowtseng.github.io
 
-![cat.png]
+![cat.jpg](cat.jpg)
