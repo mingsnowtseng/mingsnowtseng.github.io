@@ -27,8 +27,9 @@ function draw() {
 }
 
 
-function mousePressed() {
-    choice = (choice + 1) % 3;
+function mousePressed() 
+{    
+    choice = int (random(5));
 }
 
 function setup()
